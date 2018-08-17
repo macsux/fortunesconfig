@@ -1,4 +1,4 @@
 FunnyQuotes:
-  ClientType: rest
+  ClientType: local
   FailedMessage: Failure is not an option -- it comes bundled with Windows.
   EnableSecurity: true
