@@ -1,4 +1,4 @@
 config:
   rate: 2
 FunnyQuotes:
-  EnableSecurity: true
+  EnableSecurity: false
